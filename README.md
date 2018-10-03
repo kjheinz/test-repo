@@ -1,12 +1,11 @@
-# test-repo
-This is a test repository.
+# Issue tracking exercise
 
-**Important _information._**
+Why am I a bad README? Find the errors to fix and the issues to improve me. Thanks!
 
-## Subheading
-**Some more *important* information.**
+## Projet description
 
-### Subsubheading
-I am now making changes locally, using sublime editor.
+ ### Sub-tittle
 
-This change, however was made online.
+# Intallation instruction
+
+- Usage
