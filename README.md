@@ -4,7 +4,7 @@ Why am I a bad README? Find the errors to fix and the issues to improve me. Than
 
 ## Project description
 
- ### Sub-title
+ ### Sub-title 
 
 # Instalation instruction
 
